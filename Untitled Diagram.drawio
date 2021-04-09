@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-01T18:41:33.093Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="gCaf0ED2Uo3r35D264Dd" version="14.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-09T13:43:36.926Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="Hk_0wamA_Vr_2YVZQtZF" version="14.5.9" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
-    <mxGraphModel dx="3105" dy="2320" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2420" dy="2117" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,7 +16,7 @@
         <mxCell id="J7QnbqcB4bwB-RJJJF_O-104" value="&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;Sampling-based Path Searching&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="-250" y="-557.5" width="190" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="us44Ss5CNA-fSEWpXxwn-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J7QnbqcB4bwB-RJJJF_O-105" target="J7QnbqcB4bwB-RJJJF_O-116">
+        <mxCell id="us44Ss5CNA-fSEWpXxwn-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="J7QnbqcB4bwB-RJJJF_O-105" target="J7QnbqcB4bwB-RJJJF_O-116" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="J7QnbqcB4bwB-RJJJF_O-105" value="&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;Real Time Optimization-based Trajectory Generation&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;arcSize=10;fontColor=#ffffff;" parent="1" vertex="1">
@@ -33,20 +33,33 @@
         <mxCell id="J7QnbqcB4bwB-RJJJF_O-109" value="&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;Collision Detection&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;arcSize=10;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="-252.5" y="-770" width="195" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="us44Ss5CNA-fSEWpXxwn-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="J7QnbqcB4bwB-RJJJF_O-116" target="J7QnbqcB4bwB-RJJJF_O-119">
+        <mxCell id="fVfaz2gRPptT8NBBDJXk-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="J7QnbqcB4bwB-RJJJF_O-116" target="J7QnbqcB4bwB-RJJJF_O-117">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="us44Ss5CNA-fSEWpXxwn-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.962;entryY=0.625;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="J7QnbqcB4bwB-RJJJF_O-116" target="J7QnbqcB4bwB-RJJJF_O-117">
+        <mxCell id="fVfaz2gRPptT8NBBDJXk-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="J7QnbqcB4bwB-RJJJF_O-116" target="J7QnbqcB4bwB-RJJJF_O-119">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="J7QnbqcB4bwB-RJJJF_O-116" value="&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;Joint Impedance &lt;br&gt;Control&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;arcSize=10;gradientColor=#97d077;" parent="1" vertex="1">
-          <mxGeometry x="42.5" y="-291.25" width="190" height="86.25" as="geometry" />
+          <mxGeometry x="365" y="-563.13" width="190" height="86.25" as="geometry" />
+        </mxCell>
+        <mxCell id="fVfaz2gRPptT8NBBDJXk-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="J7QnbqcB4bwB-RJJJF_O-117">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="698" y="-260" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="J7QnbqcB4bwB-RJJJF_O-117" value="&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;Gazebo&lt;br&gt;Simulation Environment&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcd28;strokeColor=#d79b00;arcSize=10;gradientColor=#ffa500;" parent="1" vertex="1">
-          <mxGeometry x="-237.5" y="-220" width="195" height="80" as="geometry" />
+          <mxGeometry x="600" y="-626.25" width="195" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fVfaz2gRPptT8NBBDJXk-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="J7QnbqcB4bwB-RJJJF_O-119" target="J7QnbqcB4bwB-RJJJF_O-126">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="698" y="-260" />
+              <mxPoint x="-402" y="-260" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="J7QnbqcB4bwB-RJJJF_O-119" value="&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;Franka&lt;br&gt;Real Robots&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcd28;strokeColor=#d79b00;arcSize=10;gradientColor=#ffa500;" parent="1" vertex="1">
-          <mxGeometry x="-237.5" y="-370" width="195" height="80" as="geometry" />
+          <mxGeometry x="600" y="-500" width="195" height="80" as="geometry" />
         </mxCell>
         <mxCell id="J7QnbqcB4bwB-RJJJF_O-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="J7QnbqcB4bwB-RJJJF_O-122" target="J7QnbqcB4bwB-RJJJF_O-109" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -75,19 +88,24 @@
           <mxGeometry x="-500" y="-650" width="195" height="80" as="geometry" />
         </mxCell>
         <mxCell id="J7QnbqcB4bwB-RJJJF_O-128" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="J7QnbqcB4bwB-RJJJF_O-127" target="J7QnbqcB4bwB-RJJJF_O-123" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-515" y="-775" />
+              <mxPoint x="-515" y="-750" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="J7QnbqcB4bwB-RJJJF_O-127" value="&lt;font&gt;&lt;b&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;URDF File&lt;br&gt;XML Specifications&lt;br&gt;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="-720" y="-765" width="185" height="70" as="geometry" />
+        <mxCell id="J7QnbqcB4bwB-RJJJF_O-127" value="&lt;font&gt;&lt;b&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;URDF File&lt;br&gt;XML Specifications&lt;br&gt;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="-720" y="-810" width="185" height="70" as="geometry" />
         </mxCell>
         <mxCell id="J7QnbqcB4bwB-RJJJF_O-137" value="&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;Rviz&lt;br&gt;Visualization&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a0522d;strokeColor=#6D1F00;arcSize=10;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="-495" y="-300" width="195" height="80" as="geometry" />
+          <mxGeometry x="600" y="-780" width="195" height="80" as="geometry" />
         </mxCell>
         <mxCell id="J7QnbqcB4bwB-RJJJF_O-148" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="J7QnbqcB4bwB-RJJJF_O-140" target="J7QnbqcB4bwB-RJJJF_O-116" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="J7QnbqcB4bwB-RJJJF_O-140" value="&lt;font&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;KDL&lt;br&gt;Kinematics and Dynamics Library&lt;/font&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="40" y="-110" width="195" height="85" as="geometry" />
+          <mxGeometry x="362.5" y="-385" width="195" height="85" as="geometry" />
         </mxCell>
         <mxCell id="J7QnbqcB4bwB-RJJJF_O-143" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 14px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;Collision Data&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="-643.75" width="110" height="30" as="geometry" />
@@ -96,13 +114,19 @@
           <mxGeometry x="-57.5" y="-546.25" width="90" height="22.5" as="geometry" />
         </mxCell>
         <mxCell id="J7QnbqcB4bwB-RJJJF_O-149" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Joint&amp;nbsp; Trajectory&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="30" y="-390" width="110" height="20" as="geometry" />
+          <mxGeometry x="250" y="-545" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="J7QnbqcB4bwB-RJJJF_O-152" value="&lt;span style=&quot;font-size: 14px&quot;&gt;Collision Data&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="-157.5" y="-638.75" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="J7QnbqcB4bwB-RJJJF_O-156" value="Torque" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="150" y="-190" width="50" height="20" as="geometry" />
+          <mxGeometry x="557.5" y="-530" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fVfaz2gRPptT8NBBDJXk-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="fVfaz2gRPptT8NBBDJXk-1" target="J7QnbqcB4bwB-RJJJF_O-123">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fVfaz2gRPptT8NBBDJXk-1" value="&lt;font&gt;&lt;b&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;Mesh Files&lt;br&gt;3D Models&lt;br&gt;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-720" y="-720" width="185" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
