@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-10T13:48:10.868Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="diex69JINQ9XtPhtsBF4" version="14.5.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-10T13:49:35.532Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="wsA6SV2vFk99mzF2YBgp" version="14.5.9" type="github">
   <diagram id="kjD2ABby1eE_ziVOVx_o" name="Page-1">
-    <mxGraphModel dx="1422" dy="772" grid="1" gridSize="19" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1355" dy="745" grid="1" gridSize="19" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -15,7 +15,7 @@
             <mxPoint x="530" y="300" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Uh-4Brie1c1DzjX1YJF2-2" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Kinematics and Dynamics Library&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Uh-4Brie1c1DzjX1YJF2-2" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Kinematics and Dynamics Library&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="330" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Uh-4Brie1c1DzjX1YJF2-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Uh-4Brie1c1DzjX1YJF2-4" target="Uh-4Brie1c1DzjX1YJF2-2">
@@ -65,7 +65,7 @@
         <mxCell id="Uh-4Brie1c1DzjX1YJF2-25" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#6c8ebf;fillColor=none;strokeWidth=5;" vertex="1" parent="1">
           <mxGeometry x="665" y="130" width="385" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="Uh-4Brie1c1DzjX1YJF2-26" value="&lt;font style=&quot;font-size: 19px&quot;&gt;Flexible Collision Library&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+        <mxCell id="Uh-4Brie1c1DzjX1YJF2-26" value="&lt;font style=&quot;font-size: 19px&quot;&gt;Flexible Collision Library&lt;/font&gt;" style="text;html=1;strokeColor=#314354;fillColor=#647687;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="690" y="150" width="150" height="50" as="geometry" />
         </mxCell>
       </root>
